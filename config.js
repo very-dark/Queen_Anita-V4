@@ -1,5 +1,5 @@
 global.owner = [
-  "2347043759577",
+  "2348057262878",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
@@ -30,7 +30,7 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["2348057262878@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
@@ -60,7 +60,7 @@ global.antilink = false;
 
 global.antilinkkick = false;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 global.mess = {
     success: '𝙳𝚘𝚗𝚎',
